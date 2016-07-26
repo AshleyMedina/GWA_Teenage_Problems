@@ -1,0 +1,16 @@
+body {
+  padding-top: 50px;
+}
+.starter-template {
+  padding: 180px 80px;
+  text-align: left;
+  background-image: url("sad.jpg");
+}
+h1{
+	color: gray;
+	vertical-align: text-top;
+}
+p{
+	color: gray;
+	text-align: center;
+}

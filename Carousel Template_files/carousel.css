@@ -1,0 +1,495 @@
+/* GLOBAL STYLES
+-------------------------------------------------- */
+/* Padding below the footer and lighter body text */
+
+body {
+  padding-bottom: 40px;
+  color: #5a5a5a;
+}
+
+/*about us page stuff*/
+#about_us_button{
+	background-color: white;
+ 	position: relative;
+ 	margin-left: 450px;
+ 	height: 50px;
+ 	width: 200px;
+ 	text-align: center;
+ 	font-size: 25px;
+ }
+ h1{
+ 	position: relative;
+ 	margin-top: 100px;
+ 	font-size: 100px;
+ 	color: black;
+ }
+ #Info_GWC{
+ 	position:relative;
+ 	margin-bottom: 100px;
+ 	margin-top: 100px;
+ 	font-size: 30px;
+ 	color: black;
+ }
+ #contact_title{
+ 	position: relative;
+ 	margin-top: 50px;
+ 	font-size: 60px;
+ 	color: black;
+ }
+ #contact{
+ 	position: relative;
+ 	font-size: 25px;
+ 	margin-right: 40px;
+ 	color: black;
+ }
+ #Pic_Circle_alaysia{
+ 	border-radius: 500px;
+	position: relative;
+	margin-left: -500px;
+	margin-top: -50px;
+ 	height: 300px;
+ 	width: 300px;
+ }
+ #Pic_Circle_diana{
+ 	border-radius: 500px;
+	position: relative;
+	margin-left: -500px;
+ 	height: 300px;
+ 	width: 300px;
+ }
+ #Pic_Circle_ashley{
+ 	border-radius: 500px;
+	position: relative;
+	margin-left: 400px;
+	margin-top: -300px;
+ 	height: 300px;
+ 	width: 300px;
+ }
+ #Pic_Circle_kelly{
+ 	border-radius: 500px;
+	position: relative;
+	margin-left: 400px;
+	margin-top: -300px;
+ 	height: 300px;
+ 	width: 300px;
+ }
+ #Names_Us{
+	position: relative;
+	font-size: 30px;
+	color: black;
+ }
+
+ /*end about us page stuff*/
+ 
+ 
+ 
+
+/*button on the home page to go to the emotions page*/
+#emotions_button{
+	background-color: white;
+	position: relative;
+	height: 50px;
+	width: 200px;
+	text-align: center;
+	font-size:30px;
+	margin-left: 450px;
+}
+
+/*making a container for all the emotion divs/images*/
+#image_container{
+	width:100%;
+	height: auto;
+}
+
+/*making the divs circles*/
+#Anger_Tab{
+	background-color: black;
+	position: relative;
+	border-radius: 500px;
+	height: 300px;
+	width: 300px;
+	margin-left: 300px;
+	margin-top: 300px;
+}
+#Joy_Tab{
+	background-color: black;
+	position: relative;
+	border-radius: 500px;
+	height: 300px;
+	width: 300px;
+	margin-left: 700px;
+	margin-top: -300px;
+}
+#Sadness_Tab{
+	background-color: black;
+	position: relative;
+	border-radius: 500px;
+	height: 300px;
+	width: 300px;
+	margin-left: 1100px;
+	margin-top: -300px;
+}
+
+/* turning the images into circles*/
+#Anger_Image{
+	border-radius: 500px;
+	height: 300px;
+	width: 300px;
+}
+#Joy_Image{
+	border-radius: 500px;
+	height: 300px;
+	width: 300px;
+}
+#Sadness_Image{
+	border-radius: 500px;
+	height: 300px;
+	width: 300px;
+}
+/* Anger page divs*/
+
+#Title_Anger{
+	background-color: rgb(139,0,0);
+	position: center;
+	height: 100px;
+	width: 925px;
+	color: white;
+	font-size: 80px;
+	margin-top: 100px;
+	text-align: center;
+	
+	margin-left: 500px;
+}
+
+#Heading_Anger{
+	background-color: rgb(139,0,0);
+	position: center;
+	height: 100px;
+	width: 1925px;
+	color: white;
+	font-size: 50px;
+	margin-top: 130px;
+	text-align: center;
+	margin-left: 30px;
+}
+
+#Videos_Anger_1{
+	background-color: white;
+	position: relative;
+	color:white;
+	height: 315px;
+	width: 420px;
+	margin-top: -1380px;
+	margin-left: 500px;
+	font-size: 30px;
+}
+#Videos_Anger_2{
+	background-color: white;
+	position: relative;
+	color: white;
+	height: 315px;
+	width: 420px;
+	margin-left: 955px;
+	margin-top: 25px;
+	font-size: 30px;
+}
+#Videos_Anger_3{
+	background-color: white;
+	position: relative;
+	color: white;
+	height: 315px;
+	width: 420px;
+	margin-left: 500px;
+	margin-top: 40px;
+	font-size: 30px;
+}
+
+#Quotes_title_anger{
+	background-color: rgb(139,0,0);
+	color: Gray;
+	font-size: 30px;
+}
+#Quotes_Anger{
+	background-color: rgb(139,0,0);
+	position: relative;
+	color: Gray;
+	height: 150px;
+	width: 400px;
+	margin-left: 1015px;
+	margin-top: -950px;
+	font-size: 25px;
+}
+#Things_To_Do_Title_Anger{
+	background-color: rgb(139,0,0);
+	color: Gray;
+	font-size: 30px;
+	
+}
+#Things_To_Do_Anger{
+	background-color: rgb(139,0,0);
+	position: relative;
+	color: Gray;
+	height: 150px;
+	width: 300px;
+	margin-left: 575px;
+	margin-top: 255px;
+	font-size: 25px;
+}
+#Random_facts_title_anger{
+	background-color: rgb(139,0,0);
+	color: Gray;
+	font-size: 30px;	
+}
+#Random_facts_Anger{
+	background-color: rgb(139,0,0);
+	position: relative;
+	height: 577px;
+	width: 455px;
+	color: Gray;
+	margin-left: 1015px;
+	margin-top: 950px;
+	font-size: 25px;
+}
+
+
+
+/* This is the begging of the Happy Page CSS Code */
+
+
+#Title_Happy{
+	background-color: rgb(152,251,152);
+	position: center;
+	height: 100px;
+	width: 925px;
+	color: white;
+	font-size: 80px;
+	margin-top: 100px;
+	text-align: center;
+	margin-left: 500px;
+}
+
+#Heading_Happy{
+	background-color: rgb(152,251,152);
+	position: center;
+	height: 100px;
+	width: 1925px;
+	color: white;
+	font-size: 50px;
+	margin-top: 70px;
+	text-align: center;
+	margin-left: 30px;
+}
+#Quotes_title_happy{
+	background-color: rgb(152,251,152);
+	color: Gray;
+	font-size: 30px;
+}
+#Quotes_Happy{
+	background-color: rgb(152,251,152);
+	position: relative;
+	color: Gray;
+	height: 150px;
+	width: 400px;
+	margin-left: 1015px;
+	margin-top: -950px;
+	font-size: 25px;
+}
+#Things_To_Do_Title_Happy{
+	background-color: rgb(152,251,152));
+	color: Gray;
+	font-size: 30px;
+	
+}
+#Things_To_Do_Happy{
+	background-color: rgb(152,251,152);
+	position: relative;
+	color: Gray;
+	height: 150px;
+	width: 300px;
+	margin-left: 575px;
+	margin-top: 255px;
+	font-size: 25px;
+}
+#Random_facts_title_happy{
+	background-color: rgb(152,251,152);
+	color: Gray;
+	font-size: 30px;	
+}
+#Random_facts_Happy{
+	background-color: rgb(152,251,152);
+	position: relative;
+	height: 577px;
+	width: 455px;
+	color: Gray;
+	margin-left: 1015px;
+	margin-top: 950px;
+	font-size: 25px;
+}
+
+
+
+/* This is the begging of the SAD Page CSS Code */
+
+#Title_Sad{
+	background-color: powderblue;
+	position: center;
+	height: 100px;
+	width: 925px;
+	color: white;
+	font-size: 80px;
+	margin-top: 100px;
+	text-align: center;
+	
+	margin-left: 500px;
+}
+#Heading_Sad{
+	background-color: powderblue;
+	position: center;
+	height: 100px;
+	width: 1925px;
+	color: white;
+	font-size: 50px;
+	margin-top: 70px;
+	text-align: center;
+	margin-left: 30px;
+}
+#Quotes_title_sad{
+	background-color: powderblue;
+	color: Gray;
+	font-size: 30px;
+}
+#Quotes_Sad{
+	background-color: powderblue;
+	position: relative;
+	color: Gray;
+	height: 150px;
+	width: 400px;
+	margin-left: 1015px;
+	margin-top: -950px;
+	font-size: 25px;
+}
+#Things_To_Do_Title_Sad{
+	background-color: powderblue;
+	color: Gray;
+	font-size: 30px;
+	
+}
+#Things_To_Do_Sad{
+	background-color: powderblue;
+	position: relative;
+	color: Gray;
+	height: 150px;
+	width: 300px;
+	margin-left: 575px;
+	margin-top: 255px;
+	font-size: 25px;
+}
+#Random_facts_title_sad{
+	background-color: powderblue;
+	color: Gray;
+	font-size: 30px;	
+}
+#Random_facts_Sad{
+	background-color: powderblue;
+	position: relative;
+	height: 577px;
+	width: 455px;
+	color: Gray;
+	margin-left: 1015px;
+	margin-top: 950px;
+	font-size: 25px;
+}
+
+
+
+
+
+
+/* CUSTOMIZE THE NAVBAR
+-------------------------------------------------- */
+
+/* Special class on .container surrounding .navbar, used for positioning it into place. */
+.navbar-wrapper {
+  position: absolute;
+  top: 0;
+  right: 0;
+  left: 0;
+  z-index: 20;
+}
+
+/* Flip around the padding for proper display in narrow viewports */
+.navbar-wrapper > .container {
+  padding-right: 0;
+  padding-left: 0;
+}
+.navbar-wrapper .navbar {
+  padding-right: 15px;
+  padding-left: 15px;
+}
+.navbar-wrapper .navbar .container {
+  width: auto;
+}
+
+
+
+
+/* Featurettes
+------------------------- */
+
+.featurette-divider {
+  margin: 80px 0; /* Space out the Bootstrap <hr> more */
+}
+
+/* Thin out the marketing headings */
+.featurette-heading {
+  text-align: center;
+  font-weight: 300;
+  line-height: 1;
+  letter-spacing: -1px;
+}
+
+.lead{
+	text-align: center;
+	margin-left: 100px;
+}
+
+
+/* RESPONSIVE CSS
+-------------------------------------------------- */
+
+@media (min-width: 768px) {
+  /* Navbar positioning foo */
+  .navbar-wrapper {
+    margin-top: 20px;
+  }
+  .navbar-wrapper .container {
+    padding-right: 15px;
+    padding-left: 15px;
+  }
+  .navbar-wrapper .navbar {
+    padding-right: 0;
+    padding-left: 0;
+  }
+
+  /* The navbar becomes detached from the top, so we round the corners */
+  .navbar-wrapper .navbar {
+    border-radius: 4px;
+  }
+
+  /* Bump up size of carousel content */
+  .carousel-caption p {
+    margin-bottom: 20px;
+    font-size: 21px;
+    line-height: 1.4;
+  }
+
+  .featurette-heading {
+    font-size: 50px;
+  }
+}
+
+@media (min-width: 992px) {
+  .featurette-heading {
+    margin-top: 120px;
+  }
+}

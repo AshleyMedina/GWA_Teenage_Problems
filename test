@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<!-- saved from url=(0042)http://getbootstrap.com/examples/carousel/ -->
+<html lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+    <link rel="icon" href="http://getbootstrap.com/favicon.ico">
+
+    <title>Being a Teenager</title>
+	<!-- Random Quotes JS -->
+    <link href="./Carousel Template_files/random_quotes.js" rel="JavaScript">
+
+    <!-- Bootstrap core CSS -->
+    <link href="./Carousel Template_files/bootstrap.min.css" rel="stylesheet">
+
+    <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+    <link href="./Carousel Template_files/ie10-viewport-bug-workaround.css" rel="stylesheet">
+
+    <!-- Just for debugging purposes. Don't actually copy these 2 lines! -->
+    <!--[if lt IE 9]><script src="../../assets/js/ie8-responsive-file-warning.js"></script><![endif]-->
+    <script src="./Carousel Template_files/ie-emulation-modes-warning.js"></script>
+
+    <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+      <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+
+    <!-- Custom styles for this template -->
+    <link href="./Carousel Template_files/carousel.css" rel="stylesheet">
+  </head>
+<!-- NAVBAR
+================================================== -->
+  <body style="background-color: powderblue;">
+    <div class="navbar-wrapper">
+      <div class="container">
+
+        <nav class="navbar navbar-inverse navbar-static-top">
+          <div class="container">
+            <div class="navbar-header">
+              <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+                <span class="sr-only"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+              </button>
+              <a class="navbar-brand" href="file:///C:/Users/GWC1/Desktop/Carousel/Kelly_carousel_template.html">HOME</a>
+          </div>
+        </nav>
+
+      </div>
+    </div>
+
+
+
+
+    <!-- Marketing messaging and featurettes
+    ================================================== -->
+    <!-- Wrap the rest of the page in another container to center all the content. -->
+
+
+
+      <!-- START THE FEATURETTES -->
+	<div id="Title_Anger">
+    Welcome To Anger Page?
+	</div>
+	
+	<div id="Random_facts_Anger">
+    Chances Are You Are Youre Smiling <br> I Feel the Same Way</br>
+	</div>
+	
+		<div id="Random_facts_Anger">
+					<div id="Random_facts_title_anger">Fact Of The Day</div>
+					<li>Anger teaches us about our ability to cope.</br></li>
+							
+		</div>
+	
+							<div id="Videos_Anger_1">
+							    
+							<iframe width="420" height="315" src="http://thenicestplaceontheinter.net/" frameborder="0" allowfullscreen></iframe>
+							</div>
+
+							<div id="Videos_Anger_2">
+							  <iframe width="420" height="315" src="https://www.youtube.com/embed/gawSvU83VvI" frameborder="0" allowfullscreen></iframe>
+							</div>  
+
+							<div id="Videos_Anger_3">
+							  <iframe width="420" height="315" src="https://www.youtube.com/embed/B8ISzf2pryI" frameborder="0" allowfullscreen></iframe>
+							</div>
+		
+	
+					<div id="Quotes_Anger">
+						  <div id="Quotes_title_anger">Quote Of The Day</div>
+
+						“Usually when people are sad, they don't do anything. They just cry over their condition. But when they get angry, they bring about a change.”
+						  </br>―  Malcolm X</br>
+
+
+					</div>
+	
+<div id="Things_To_Do_Anger">
+      <div id="Things_To_Do_Title_Anger">Tip Of The Day</div>
+      <li>Distract Yourself</br></li>
+    </div>
+	
+
+      <!-- /END THE FEATURETTES -->
+
+    <!-- Bootstrap core JavaScript
+    ================================================== -->
+    <!-- Placed at the end of the document so the pages load faster -->
+    <script src="./Carousel Template_files/jquery.min.js"></script>
+    <script>window.jQuery || document.write('<script src="../../assets/js/vendor/jquery.min.js"><\/script>')</script>
+    <script src="./Carousel Template_files/bootstrap.min.js"></script>
+    <!-- Just to make our placeholder images work. Don't actually copy the next line! -->
+    <script src="./Carousel Template_files/holder.min.js"></script>
+    <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+    <script src="./Carousel Template_files/ie10-viewport-bug-workaround.js"></script>
+  
+
+<svg xmlns="http://www.w3.org/2000/svg" width="500" height="500" viewBox="0 0 500 500" preserveAspectRatio="none" style="display: none; visibility: hidden; position: absolute; top: -100%; left: -100%;"><defs><style type="text/css"></style></defs><text x="0" y="25" style="font-weight:bold;font-size:25pt;font-family:Arial, Helvetica, Open Sans, sans-serif">500x500</text></svg></body></html>
